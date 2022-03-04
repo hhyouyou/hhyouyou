@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 - 🔭 I’m currently working on uniontech as a backend engineer.
-- 🌱 I’m currently learning cpp/QtQucik
+- 🌱 I’m currently learning hadoop
 
 <!-- - 💬 Ask me about Java and Spring -->
 

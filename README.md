@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 - 🔭 I’m currently working on uniontech as a backend engineer.
-- 🌱 I’m currently learning spark
+- 🌱 I’m currently learning Spark
 
 <!-- - 💬 Ask me about Java and Spring -->
 
